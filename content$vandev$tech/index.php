@@ -28,7 +28,7 @@
 
     <div id="dh3" class="dh">
       <div id="dh31" class="dh3">
-        <a id="nav4" href="https://www.linkedin.com/in/vandeveloper/">Linkedin</a>
+        <a id="nav4" href="https://www.linkedin.com/in/sulivando/">Linkedin</a>
         <a id="nav5" href="https://github.com/antonylima">Github</a>
         <a id="nav6" href="https://www.instagram.com/vandolima100">Instagram</a>
       </div>
@@ -73,7 +73,7 @@
           <li class="resumebt"><a>Resume</a></li>
           <li class="projbt"><a>Projects</a></li>
           <li>
-            <a href="https://www.linkedin.com/in/vandeveloper/">Linkedin</a>
+            <a href="https://www.linkedin.com/in/sulivando/">Linkedin</a>
           </li>
           <li><a href="https://github.com/antonylima">Github</a></li>
           <li>
