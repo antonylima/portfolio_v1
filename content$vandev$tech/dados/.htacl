@@ -1,0 +1,4 @@
+AuthUserFile "/services/users/zfh4p1/antlim8/www/vandev.tech/content$vandev$tech/dados/.htaclu"
+AuthName Members
+AuthType Basic
+Require valid-user
