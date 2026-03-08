@@ -85,20 +85,20 @@ logo.addEventListener('click', () => {
   divmenu.style.top = '-10px';
 });
 
-resumebt[0].addEventListener('click', () => {
-  home.style.display = 'none';
-  about.style.display = 'none';
-  proj.style.display = 'none';
-  rsm.style.display = 'block';
-});
+// resumebt[0].addEventListener('click', () => {
+//   home.style.display = 'none';
+//   about.style.display = 'none';
+//   proj.style.display = 'none';
+//   rsm.style.display = 'block';
+// });
 
-resumebt[1].addEventListener('click', () => {
-  home.style.display = 'none';
-  about.style.display = 'none';
-  proj.style.display = 'none';
-  rsm.style.display = 'block';
-  divmenu.style.top = '9px';
-});
+// resumebt[1].addEventListener('click', () => {
+//   home.style.display = 'none';
+//   about.style.display = 'none';
+//   proj.style.display = 'none';
+//   rsm.style.display = 'block';
+//   divmenu.style.top = '9px';
+// });
 
 //if(!rsm.style.display === 'none'){
 //divmenu.style.top = '9px';
